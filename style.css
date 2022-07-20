@@ -136,6 +136,39 @@ body {
 	transform: translateY(4px);
 }
 
+a, button{
+    position: absolute;
+    transform: translateX(-50%);
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    padding: 0.5rem 0.9em;
+    background: #000000;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+a{
+    
+    bottom: 5%;
+    left: 15%;
+    text-decoration:none;
+}
+
+button {
+    bottom: 5%;
+    right: 0%;
+}
+
+a:hover, button:hover {
+    background: #ffffff;
+    color: #000000;
+}
+
+
 /*
     @ blink-stop v1.0
     DESC: Prevent blinking cursor. Since the ::all selector is so slow,

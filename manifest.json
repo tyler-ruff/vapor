@@ -1,0 +1,21 @@
+{
+    "short_name": "blz-space-vapor",
+    "name": "Vapor",
+    "icons": [
+      {
+        "src": "https://blazed.sirv.com/logo/Beaker-Rainbow.png?w=192&h=192",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://blazed.sirv.com/logo/Beaker-Rainbow.png?w=512&h=512",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "background_color": "bd979f",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#daacae",
+    "description": "Vaporwave/aesthetic website."
+  }
