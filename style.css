@@ -33,7 +33,7 @@ body {
 }
 
 #plant {
-	background-image: url(https://ouch-cdn2.icons8.com/CZaKIJ63jjlgvDcdjcjUnlfpffRScIiXzi4HMrpLAsM/rs:fit:728:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjM2/L2RkMzRmMzVhLWVk/YmMtNDRlZi1hOGNm/LTZlZjJlMTBlMzU2/My5wbmc.png);
+	background-image: url(./images/plant-1.png);
 	width: 500px;
 	height: 620px;
 	bottom: -26px;
@@ -41,7 +41,7 @@ body {
 }
 
 #plant-2 {
-	background-image: url(https://ouch-cdn2.icons8.com/E47kcuNp_3-4IrDybcMwr6zMELcbhBQLKzImj-ot8E4/rs:fit:855:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMzE5/LzljNjEwNjJhLTk4/YmMtNDViMS1iZGVm/LTMwNzVjMTMxYjQ1/OC5wbmc.png);
+	background-image: url(./images/plant-2.png);
 	width: 300px;
 	height: 320px;
 	bottom: -50px;
@@ -49,7 +49,7 @@ body {
 }
 
 #plant-3 {
-	background-image: url(https://ouch-cdn2.icons8.com/oo4nsgAN74wL_FDHCUIwOdB3rPN6SGavRjxiz-1ds4s/rs:fit:1201:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTk0/LzVlMGQ1NjhlLWNh/NTEtNGJlNC1iNWEz/LTQyYTcwNDlmZGMy/My5wbmc.png);
+	background-image: url(./images/plant-3.png);
 	width: 160px;
 	height: 125px;
 	bottom: -50px;
@@ -57,7 +57,7 @@ body {
 }
 
 #books {
-	background-image: url(https://ouch-cdn2.icons8.com/AUAdQ5eK8APXniP0hwVusHWtZRMk9FA2Jm9FSza1StY/rs:fit:850:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNy9j/NTcxMWIzNC1mMTYy/LTQ3MTAtOGExYi1l/YzY1M2FlN2IwYWYu/cG5n.png);
+	background-image: url(./images/books-1.png);
 	width: 200px;
 	height: 220px;
 	bottom: -40px;
@@ -65,7 +65,7 @@ body {
 }
 
 #apple {
-	background-image: url(https://ouch-cdn2.icons8.com/-O2SifADepTOg7bXJ5whR6wB0iMfq5y7vrIaJdmKp20/rs:fit:851:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODYy/L2M3MjBkM2Q3LWMw/NTgtNDJkOC04ZGEw/LTc2MTM1N2YwMmNh/OC5wbmc.png);
+	background-image: url(./images/fruit-1.png);
 	width: 64px;
 	height: 70px;
 	top: -64px;
@@ -73,7 +73,7 @@ body {
 }
 
 #clock {
-	background-image: url(https://ouch-cdn2.icons8.com/ggxsAQVGAa4GMIlNl6vMuk0ANcEK07E5woeRpplKofI/rs:fit:945:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMzI0/L2RmMDQzMzc4LTcy/NTUtNDA5My04ZDQy/LTgxOTJjNmE2ZmQx/ZC5wbmc.png);
+	background-image: url(./images/clock-1.png);
 	width: 170px;
 	height: 170px;
 	background-size: 100% auto;
@@ -100,7 +100,7 @@ body {
 	content: "";
 	width: 100%;
 	height: 100%;
-	background-image: url(https://data.whicdn.com/images/251238216/original.gif);
+	background-image: url(./images/vapor-image-1.gif);
 	background-position: center center;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
